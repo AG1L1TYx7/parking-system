@@ -1,0 +1,5 @@
+
+#msg {display:none; position:absolute; z-index:300; background:url(../images/icons/cross_circle.png) left center no-repeat; padding-left:13px; background-color:#D5FFCE; border:2px solid #9ADF8F; border-radius:5px; }
+#msgcontent {display:block;  color:black;  border-left:none; padding:5px; min-width:150px; max-width:300px}
+
+
